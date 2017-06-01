@@ -1,3 +1,4 @@
+Это семантическая сеть для визуализации структуры текста.
 <script type="text/javascript" 
 src="https://www.google.com/jsapi"></script>
 
